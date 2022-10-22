@@ -11,7 +11,7 @@ A new Flutter project.
 <img src="https://user-images.githubusercontent.com/108392662/196049291-22d1c2ec-f439-493b-a14d-0cb97b003d98.jpg"  width="300" height="600">
 
 
-# Sample vidio
+# Sample video
 
 https://user-images.githubusercontent.com/108392662/196049328-499ce0ae-0420-47a2-8bd2-df0762359c8b.mp4
 
